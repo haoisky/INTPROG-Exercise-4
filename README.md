@@ -1,2 +1,2 @@
-# INTPROG - Exercise-2
-Exercise #2 - HTML/CSS/Javascript/PHP
+# INTPROG - Exercise-4
+Exercise #4 - Use GET and POST using your PHP website created before.
